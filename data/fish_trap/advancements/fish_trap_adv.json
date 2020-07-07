@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fish_trap:fish_trap"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fish_trap:crafted_fish_trap"
+    }
+}

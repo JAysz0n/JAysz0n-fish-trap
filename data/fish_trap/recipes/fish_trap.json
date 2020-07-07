@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "cbc",
+    " c "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:barrel"
+    },
+    "c": {
+      "item": "minecraft:cobweb"
+    }
+  },
+  "result": {
+    "item": "minecraft:structure_void"
+  }
+}
